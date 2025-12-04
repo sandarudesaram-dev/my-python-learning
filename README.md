@@ -19,11 +19,14 @@ The exercises are primarily sourced from *Pynative* and other structured practic
 
 ## 📂 Repository Structure
 The codes are organized by topic for easy navigation:
-- /Basic_Concepts - Input/Output, Variables, and Operators.
+- /basic exercise - Fundamental input/output and variable logic.
 - /Control_Flow - If-Else, For Loops, While Loops.
-- /Functions - Arguments, Recursion, and Lambda functions.
-- /Data_Structures - Lists, Tuples, Sets, and Dictionaries.
-- /OOP - Classes, Inheritance, and Encapsulation.
+- /functions & /loop - Modular code and iteration.
+- /Data_Structures - Covers /list, /dict, /set, and /tuple.
+- /OOP - Object-Oriented Programming concepts.
+- /file handling - Reading and writing files.
+- /Database SQL - Database interaction basics.
+- /more than basics & /Intermediate exercise - Advanced logic.
 
 ## 👨‍💻 About Me
 I am a first-year undergraduate at the *University of Moratuwa (Faculty of Engineering)*.
