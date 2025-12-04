@@ -22,10 +22,10 @@ The codes are organized by topic for easy navigation:
 - /basic exercise - Fundamental input/output and variable logic.
 - /Control_Flow - If-Else, For Loops, While Loops.
 - /functions & /loop - Modular code and iteration.
-- /list
-- /dict
-- /set
-- /tuple.
+- /list - list methods and operations.
+- /dict - dict methods and operations.
+- /set - set methods and operations.
+- /tuple - tuple methods and operations.
 - /OOP - Object-Oriented Programming concepts.
 - /file handling - Reading and writing files.
 - /Database SQL - Database interaction basics.
